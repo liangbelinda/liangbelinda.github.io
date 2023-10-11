@@ -1,0 +1,36 @@
+h1, h2{
+    font-family:'Libre Baskerville', serif;
+}
+
+p{
+    font-family:'Montserrat', Arial, sans-serif;
+}
+
+body{
+    background-color: #FBE7C6;
+}
+
+#top{
+    text-align: center;
+    line-height: .5em;
+    padding: 1em;
+    background-image: url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: -10px;
+}
+
+#bottom{
+    margin: 2em 5em;
+}
+
+.highlight{
+    background-color: white;
+    padding: 3px;
+}
+
+img{
+    height: 10em;
+    border-radius: 50%;
+    border: 3px solid white;
+}
